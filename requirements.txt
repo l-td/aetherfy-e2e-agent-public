@@ -1,0 +1,2 @@
+# FastAPI is provided by the Aetherfy platform_runner.
+# No extra dependencies required for this test fixture.

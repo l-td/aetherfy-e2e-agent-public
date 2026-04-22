@@ -1,0 +1,7 @@
+name: aetherfy-e2e-agent-public
+runtime: python3.11
+type: service
+memory_mb: 256
+regions:
+  - iad
+entrypoint: main.py

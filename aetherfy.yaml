@@ -3,5 +3,5 @@ runtime: python3.11
 type: service
 memory_mb: 256
 regions:
-  - iad
+  - us-east-1
 entrypoint: main.py

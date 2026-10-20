@@ -1,6 +1,6 @@
 runtime: python3.11
 type: service
-memory_mb: 256
+memory_mb: 512
 regions:
   - us-east-1
 entrypoint: main.py
